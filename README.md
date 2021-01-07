@@ -10,6 +10,6 @@ I am passionate Self taught Full Stack Developer.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cool projects.
-- 🌱 I’m currently learning TypeScript 
+- 🌱 I’m currently learning ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 - 📫 How to reach me: 
 -->
