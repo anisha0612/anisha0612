@@ -7,7 +7,19 @@ I am passionate Self taught Full Stack Developer.
 ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 - 🔭 I’m currently working on cool projects.
 - 🌱 I’m currently learning ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-- 📫 How to reach me: 
+- 📫 How to reach me: <!-- Actual text -->
+
+ [![LinkedIn][1.1]][1].
+
+<!-- Icons -->
+
+
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+
+[1]: https://www.linkedin.com/in/anisha-potteti-48b77872/
 <!--
 **anisha0612/anisha0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  ![image]() 
